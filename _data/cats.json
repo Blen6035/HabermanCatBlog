@@ -1,0 +1,32 @@
+[
+    {
+        "name":"Harry",
+        "age":4,
+        "gender":"male",
+        "picture":"http://placekitten.com/200/300"
+    },
+    {
+        "name":"Ron",
+        "age":8,
+        "gender":"male",
+        "picture":"http://placekitten.com/400/330"
+    },
+    {
+        "name":"Hermione",
+        "age":5,
+        "gender":"female",
+        "picture":"http://placekitten.com/300/300"
+    },
+    {
+        "name":"Ginny",
+        "age":2,
+        "gender":"female",
+        "picture":"http://placekitten.com/500/400"
+    },
+    {
+        "name":"Neville",
+        "age":7,
+        "gender":"male",
+        "picture":"http://placekitten.com/333/333"
+    }
+]
